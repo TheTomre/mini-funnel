@@ -15,7 +15,7 @@ export function EmailPage() {
   const privacyNote = (
     <div className="privacy-note">
       <img
-        src="/src/assets/icons/Lock.png"
+        src="/icons/Lock.png"
         alt="Lock"
         style={{ width: "16px", height: "18px" }}
       />

@@ -47,7 +47,7 @@ export function Header({ showBack = false, onBack }: HeaderProps) {
 
         <div className="header__center">
           <div className="header__logo">
-            <img src="/src/assets/icons/Logo Wrap.png" alt="Momentum" />
+            <img src="/icons/Logo Wrap.png" alt="Momentum" />
           </div>
         </div>
 

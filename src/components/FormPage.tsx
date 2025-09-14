@@ -81,7 +81,7 @@ export function FormPage({
           >
             Continue
             <img
-              src="/src/assets/icons/arrow-right.png"
+              src="/icons/arrow-right.png"
               alt=""
               className="btn__icon"
               style={{ width: "24px", height: "24px" }}

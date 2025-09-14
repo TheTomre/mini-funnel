@@ -109,7 +109,7 @@ export function ProductPage() {
               <div className="product__promo">
                 <div className="product__promo-header">
                   <img
-                    src="/src/assets/icons/Coupon Icon.png"
+                    src="/icons/Coupon Icon.png"
                     alt="Promo"
                     className="product__promo-icon"
                     style={{ width: "17px", height: "17px" }}
@@ -122,7 +122,7 @@ export function ProductPage() {
                 <div className="product__promo-content">
                   <div className="product__promo-code-container">
                     <img
-                      src="/src/assets/icons/Vector (Stroke).png"
+                      src="/icons/Vector (Stroke).png"
                       alt="Check"
                       className="product__promo-check"
                       style={{ width: "13.43px", height: "9.72px" }}
@@ -157,7 +157,7 @@ export function ProductPage() {
                 <div className="product__card-left">
                   <div className="product__card-radio product__card-radio--selected">
                     <img
-                      src="/src/assets/icons/Selector.png"
+                      src="/icons/Selector.png"
                       alt="Selected"
                       className="product__card-radio-icon"
                     />
